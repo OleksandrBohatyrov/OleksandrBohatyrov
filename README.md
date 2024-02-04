@@ -1,1 +1,1 @@
-![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=OleksandrBohatyrov)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OleksandrBohatyrov)](https://github.com/anuraghazra/github-readme-stats)
