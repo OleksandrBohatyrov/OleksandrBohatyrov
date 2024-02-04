@@ -65,12 +65,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=OleksandrBohatyrov&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=OleksandrBohatyrov&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=OleksandrBohatyrov&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
 
-[![](https://visitcount.itsvg.in/api?id=shenkns&icon=0&color=10)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=OleksandrBohatyrov&icon=0&color=10)](https://visitcount.itsvg.in)
