@@ -1,9 +1,9 @@
 # 💫 About Me:
 👋Hey!<br><br>
 👨‍💻My name is Oleksandr<br>
-/*📱...<br><br>
+<!---📱...<br><br>
 💸Ready for cooperation, DM me!<br>
-[Telegram](https://t.me/abkillio)*/
+[Telegram](https://t.me/abkillio)--->
 
 # 💻 Tech Stack:
 
