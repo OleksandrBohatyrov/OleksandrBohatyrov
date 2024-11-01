@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋Hey!<br><br>
 👨‍💻My name is Oleksandr<br>
-🌍Estonia, Tallinn 
+🌍Tallinn, Estonia 
 
 # 💻 Tech Stack:
 
